@@ -1,7 +1,7 @@
 package rez.jenkins;
 
 class Output {
-    static def hello (string name) {
+    static def hello (String name) {
         echo ("Hello ${name}")
     }
 }
