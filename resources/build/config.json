@@ -1,0 +1,4 @@
+{
+    "container_registry_url": "registry.gitlab.com",
+    "container_registry_auth": "private"
+}
